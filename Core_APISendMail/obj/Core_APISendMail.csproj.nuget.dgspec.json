@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Core_APISendMail.csproj": {}
+    "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Core_APISendMail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Core_APISendMail.csproj": {
+    "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Core_APISendMail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Core_APISendMail.csproj",
+        "projectUniqueName": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Core_APISendMail.csproj",
         "projectName": "Core_APISendMail",
-        "projectPath": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Core_APISendMail.csproj",
+        "projectPath": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Core_APISendMail.csproj",
         "packagesPath": "C:\\Users\\MI Studio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\obj\\",
+        "outputPath": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

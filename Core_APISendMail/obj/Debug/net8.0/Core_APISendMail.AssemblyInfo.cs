@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Core_APISendMail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403a6444c9f0e8f0c07a234d7d71bf4067e21289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a2fa0445a2d1302b93a0562f75998b43d75b7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Core_APISendMail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Core_APISendMail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

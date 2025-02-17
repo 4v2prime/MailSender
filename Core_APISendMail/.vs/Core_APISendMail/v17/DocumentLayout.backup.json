@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\",
+  "WorkspaceRootPath": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:controllers\\mailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:services\\mailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\modal\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:modal\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\apis\\core_apisendmail\\services\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:services\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\mailsender\\core_apisendmail\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:46:28.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MailController.cs",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Controllers\\MailController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MailController.cs",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Controllers\\MailController.cs",
-              "RelativeToolTip": "Controllers\\MailController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:38:04.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MailServices.cs",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Services\\MailServices.cs",
-              "RelativeDocumentMoniker": "Services\\MailServices.cs",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Services\\MailServices.cs",
-              "RelativeToolTip": "Services\\MailServices.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:34:34.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMailServices.cs",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Services\\IMailServices.cs",
-              "RelativeDocumentMoniker": "Services\\IMailServices.cs",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Services\\IMailServices.cs",
-              "RelativeToolTip": "Services\\IMailServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:32:20.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-17T04:30:06.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Modal\\Email.cs",
-              "RelativeDocumentMoniker": "Modal\\Email.cs",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\Modal\\Email.cs",
-              "RelativeToolTip": "Modal\\Email.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T11:01:51.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\APIs\\Core_APISendMail\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T11:01:32.348Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-17T05:27:08.773Z",
               "EditorCaption": ""
             }
           ]
