@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\mailsender\\core_apisendmail\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\mailsender\\core_apisendmail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T05:27:08.773Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:30:30.217Z",
               "EditorCaption": ""
             }
           ]

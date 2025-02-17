@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|c:\\users\\mi studio\\desktop\\mailsender\\core_apisendmail\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1864494E-E13D-4CB0-AB65-CAE871D824E3}|Core_APISendMail.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:2090367263:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\MI Studio\\Desktop\\MailSender\\Core_APISendMail\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-17T05:27:08.773Z",
-              "EditorCaption": ""
             }
           ]
         }
